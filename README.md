@@ -10,4 +10,4 @@ An WordPress plugin to add role ID from discord to the category Slug.
 
 ## Changelog
 
-For the Plugin's changelog, Please see the Release Page.
+For the Plugin's changelog, Please see the [Release Page](https://github.com/superyassh/Discord-Series-Roles/releases).
